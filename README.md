@@ -40,4 +40,4 @@ Teclado
 
 
  
-Video instructvo:  https://www.youtube.com/watch?v=YfaiDc585Eo&list=PLyq-JRmrlcZhzti8HRQRq_4mP4lC1wiGg&index=1&t=12807s&ab_channel=VidaMRR-Programacionweb
+Guia: https://www.youtube.com/watch?v=YfaiDc585Eo&ab_channel=VidaMRR-Programacionweb
